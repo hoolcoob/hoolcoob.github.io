@@ -403,6 +403,10 @@ footer .footer-below {
     text-align: center;
 }
 
+.portfolio-modal .modal-content btn {
+    text-align: center;
+}
+
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }
