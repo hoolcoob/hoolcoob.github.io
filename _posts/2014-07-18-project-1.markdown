@@ -8,6 +8,6 @@ title: 轻小说大全
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 轻萌小说大全收录了最新最全的日本轻萌小说，二次元小说，力求给所有用户带来最完美的轻萌小说阅读体验。</br>【特色功能】</br>－支持本地缓存，减少流量消耗
+description: 轻萌小说大全收录了最新最全的日本轻萌小说，二次元小说，力求给所有用户带来最完美的轻萌小说阅读体验。<br/>【特色功能】<br/>－支持本地缓存，减少流量消耗
 
 ---
